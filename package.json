@@ -1,0 +1,22 @@
+{
+  "name": "the-one-and-only",
+  "version": "1.0.0",
+  "description": "A test using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest test --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymckay/test-matrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymckay/test-matrix/issues"
+  },
+  "homepage": "https://github.com/andymckay/test-matrix#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
